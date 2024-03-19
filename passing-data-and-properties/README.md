@@ -1,4 +1,4 @@
-# edwin-rendon
+# passing-data-and-properties
 
 This template should help get you started developing with Vue 3 in Vite.
 
